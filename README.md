@@ -25,9 +25,9 @@ The following Power BI features were incorporated:
 Power BI automatically connected related tables resulting in a star schema model.FinData is a fact table for the model and Type Order is dimension table for the model.
 The relationship and the model are shown in the below screenshots:
 
-Relationship                  | Data-model
+Relationship                  |     Data-model
 :---------------------------: | :-------------------------:
-![Alt text](Raltion_page.png) | ![Alt text](Model_page.png)
+![Alt text](Raltion_page.png) |  ![Alt text](Model_page.png)
 
 
 
